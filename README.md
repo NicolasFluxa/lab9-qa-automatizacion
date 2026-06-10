@@ -6,6 +6,15 @@
 
 ---
 
+## Estado de los defectos
+
+| Issue | Bug | Estado |
+|-------|-----|--------|
+| #1 | BUG-LAB9-001 — Falta validación de total negativo | ✅ Corregido y verificado (tests pasan) |
+| #2 | BUG-LAB9-002 — Fórmula de descuento incorrecta | ✅ Corregido y verificado (tests pasan) |
+
+---
+
 ## Configuración del entorno
 
 ```bash
